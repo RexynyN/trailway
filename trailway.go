@@ -1,9 +1,10 @@
 package main
 
 import (
-	"github.com/rexynyn/trailway/core"
+	"github.com/RexynyN/trailway/core"
 )
 
 func main() {
-	var Trail breno
+	var breno core.Trail
+
 }

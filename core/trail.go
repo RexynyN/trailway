@@ -1,5 +1,7 @@
 package core
 
 type Trail struct {
-	name string
+	Name   string
+	Length int
+	Combo  string
 }
